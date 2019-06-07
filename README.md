@@ -19,4 +19,4 @@ composer require fbraz3/poop
 
 why not?
 
-> Awnser in your Pull Request.
+> Answer in your Pull Request.
